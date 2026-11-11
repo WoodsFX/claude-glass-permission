@@ -1,0 +1,22 @@
+GlassPermission pour Windows
+============================
+
+Une notification sombre glisse depuis le bas à droite de l'écran dès que
+Claude Code a besoin de ton autorisation.
+
+  Autoriser : Entrée
+  Refuser   : Effacer, Suppr ou Échap
+  Sans réponse au bout de 90 s : Claude pose la question dans le terminal
+
+Rien à installer en plus : PowerShell et WPF sont déjà inclus dans Windows.
+
+INSTALLATION
+  1. Décompresse le zip (clic droit > Extraire tout).
+  2. Double-clique sur install.cmd
+  3. Redémarre Claude Code.
+
+TESTER
+  Double-clique sur demo.cmd
+
+DÉSINSTALLER
+  Double-clique sur uninstall.cmd
