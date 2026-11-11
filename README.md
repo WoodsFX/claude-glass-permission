@@ -8,6 +8,20 @@ Une notification qui s'affiche dès que **Claude Code** a besoin de ton autorisa
 
 La notification est sombre, apparaît en bas à droite de l'écran et glisse vers le haut. Sur Mac, une variante en verre (« Liquid Glass ») est aussi disponible.
 
+<p align="center"><img src="docs/toast-zoom.png" width="424" alt="La notification : Claude demande l'autorisation d'exécuter une commande"></p>
+
+### En situation
+
+Claude Code attend ton feu vert pour lancer une commande : la notification apparaît en bas à droite, tu réponds sans quitter ce que tu fais.
+
+![Notification en bas à droite pendant que Claude Code attend une autorisation](docs/toast.png)
+
+### Variante « verre » (Mac)
+
+![Pop-up en verre en haut de l'écran](docs/glass.png)
+
+<sub>Images d'illustration reproduisant le rendu de l'app.</sub>
+
 > Ça ne marche qu'avec **Claude Code lancé sur ton ordinateur** : dans le terminal, ou dans l'app Claude en mode Code avec un dossier de ton ordinateur. Ça ne marche pas avec les sessions cloud ni avec les conversations classiques de Claude.
 
 ---
